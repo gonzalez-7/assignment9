@@ -24,4 +24,4 @@ console.log("Yes, I learned what I expected and also discovered new topics.");
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("Technically, everything was new to me since I didn’t have much prior experience.");
