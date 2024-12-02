@@ -10,7 +10,7 @@ console.log("Practicing examples and following along with the exercises helped a
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("I would add more real-world examples and interactive projects.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
