@@ -16,7 +16,7 @@ console.log("I would add more real-world examples and interactive projects.");
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("Yes, I learned what I expected and also discovered new topics.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
