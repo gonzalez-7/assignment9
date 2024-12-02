@@ -4,7 +4,7 @@
 console.log(
   "What worked well for you over the last 9 weeks that aided in your learning process?"
 );
-console.log("");
+console.log("Practicing examples and following along with the exercises helped a lot.");
 
 // 2. Write a console.log() statement that answers the following question: What would you
 // change about the course?
